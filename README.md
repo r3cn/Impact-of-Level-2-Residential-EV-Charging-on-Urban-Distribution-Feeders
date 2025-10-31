@@ -4,10 +4,10 @@
 This repository contains OpenDSS simulation code for analyzing the impact of residential electric vehicle (EV) charging on urban distribution network infrastructure. 
 The study quantifies voltage regulation and transformer loading impacts across multiple EV penetration scenarios using the IEEE 13-node test feeder as the base model.
 
-**Author: Varun Kaukuntla**
-**Institution: University of Technology Sydney (UTS)** 
-**Course: 41029 Engineering Research Preparation** 
-**Supervisor: Prof. Li Li**
+### Author: Varun Kaukuntla
+### Institution: University of Technology Sydney (UTS
+### Course: 41029 Engineering Research Preparation
+### Supervisor: Prof. Li Li
 
 ## Research Objectives
 - Establish baseline electrical characteristics of IEEE 13-node distribution system adapted for Australian context
