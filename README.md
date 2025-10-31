@@ -5,7 +5,7 @@ This repository contains OpenDSS simulation code for analyzing the impact of res
 The study quantifies voltage regulation and transformer loading impacts across multiple EV penetration scenarios using the IEEE 13-node test feeder as the base model.
 
 #### Author: Varun Kaukuntla
-#### Institution: University of Technology Sydney (UTS
+#### Institution: University of Technology Sydney (UTS)
 #### Course: 41029 Engineering Research Preparation
 #### Supervisor: Prof. Li Li
 
