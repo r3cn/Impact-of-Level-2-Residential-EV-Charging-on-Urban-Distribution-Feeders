@@ -119,7 +119,6 @@ Full research report and detailed findings available in the associated research 
 This code is provided for educational and research purposes.
 
 ## Acknowledgments
-- Supervisor: Prof. Li Li
 - Modified IEEE 13-node test feeder specifications from IEEE PES Test Feeders
 - OpenDSS simulation platform by EPRI
 
